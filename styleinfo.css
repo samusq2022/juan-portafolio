@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: #00D9F5;
+    border: 2px solid #003EF5;
+    background-color:#F59300 ;
+    padding: 10px;
+    border-radius: 10px;
+  }
+.link-header {
+    background-color:rgb(255, 115, 0) ;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
